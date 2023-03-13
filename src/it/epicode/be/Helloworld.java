@@ -14,6 +14,7 @@ public static void main (String[] args)
 		// System.out.print("inserisci il tuo nome: ");
 		// String g = myScan.nextLine();
 		// System.out.println("ciao "+g+"!");
+		System.out.println("prova");
 		System.out.println(Concatena("ciao mondo",2352));
 		
 		String arr[] = {"primo","secondo","terzo","quarto","quinto"};
